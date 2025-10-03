@@ -1,2 +1,4 @@
 # projet-git-
-salam aleykoum
+Ceci est le projet git.
+
+Collaborateur : Hacene
